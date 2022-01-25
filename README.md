@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey+Merhaba!;Profilime+Hoşgeldin;Projelerimi+İncelemeyi+Unutma&center=true&width=500&height=50"></a>
-  
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F73D3D&lines=Hey+Merhaba!;Profilime+Hoşgeldin;Projelerimi+İncelemeyi+Unutma&center=true&width=500&height=50"></a>
+
   <br/>
     <p align="center">
   <img align="center" height="270px" alt="guy" width="350" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> </a>
