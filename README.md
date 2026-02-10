@@ -7,186 +7,68 @@
 
 <br/>
 
-## :man: &nbsp;Hakkımda 
+# Selamlar, Ben Yalçın Adıyaman! 👋
 
-- 😄 Pronouns: She/Her/Hers 
-- 🔭 I’m currently working on: an NLP sentiment analysis project
-- :heart: My favorite language: SQL
-- 🌱 I’m currently learning: nueral nets and Mandarin
-- 👯 I’m always looking to collaborate with: scientist from any field
-- 💬 Ask me about: anything, I am happy to help
-- 🌍 I support: Latinas in Tech, AllStar Code, The Foundation to Decrease Worldsuck
-- 💜 Interests: philosophy, travel, dachshunds, internet culture, video games, Star Trek
-- ⚡ Fun fact: My ultimate dream is to be on Star Trek and dawn a yellow uniform. 🖖
+### 👨‍💻 Hakkımda
+Bir Internet Servis Sağlayıcı (ISS) firmasında altyapı hizmetleri üzerine çalışıyorum. Boş zamanlarımda açık kaynak projeler geliştirmeyi, elektronik devrelerle (ESP32/Arduino) uğraşmayı seviyorum.
 
-<br/>
+- 📡 **Amatör Telsizcilik:** Teknik projeler ve haberleşme sistemleri üzerine çalışmalar yapıyorum.
+- 🏛️ **Kültürel Miras:** Türk mitolojisi ve motiflerini dijital dünyayla harmanlıyorum.
+- 🛠️ **Elektronik:** ESP32 ve Arduino tabanlı cihazlar geliştiriyorum.
 
-## 🛠 &nbsp;Tech Stack
+---
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YalcinAdiyaman&theme=algolia" alt="YalcinAdiyaman"  /></p>
+### 🚀 Aktif Projeler & İlerleme Durumları
 
-<details>
-   <summary><b>💻 Becerilerim</b></summary>
-  <br/>
+Aşağıdaki projeler üzerinde aktif olarak çalışmaktayım:
 
-### 👉 Programming languages
+**1. [Konum 360 Gayrimenkul](https://konum360.com.tr)**
+![Progress](https://geps.dev/progress/100) (Tamamlandı - Canlıda)
+* Emlak hesaplama araçları ve müşteri yönetim sistemi.
 
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
-  </a>
-</p>
+**2. Amatör Telsizcilik Projesi**
+![Progress](https://geps.dev/progress/50) (Yarısı Tamamlandı)
+* Platform geliştirme aşamasında.
 
-### 👉 Frontend Development
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>
-</p>
+**3. Network Device Discovery Tool**
+![Progress](https://geps.dev/progress/30) (Prototip Hazır - Sahadan Geri Dönüş Bekleniyor)
+* Ubiquiti, Mikrotik ve Mimosa cihazları için Python tabanlı tarama aracı.
 
-### 👉 Databases & Cloud Hosting
+**4. Turkic Mythology Strategy Game**
+![Progress](https://geps.dev/progress/5) (Fikir Aşamasında)
+* Türk mitolojisi ve tarihi temalı browser tabanlı strateji oyunu kurgusu.
+
+---
+
+### 🛠️ Yeteneklerim & Teknoloji Yığınım
+
+| Kategori | Teknolojiler |
+| :--- | :--- |
+| **Diller** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Frontend/Backend** | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) |
+| **Altyapı & Araçlar** | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+| **Donanım** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) |
+
+---
+
+### 📊 GitHub İstatistiklerim
+
 <p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
-  &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
-  &emsp;
-    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
- </p>
-  
-### 👉Graphic Designing
+  <img src="https://github-readme-stats.vercel.app/api?username=YalcinAdiyaman&show_icons=true&theme=tokyonight" alt="Yalçın'ın GitHub İstatistikleri" />
+</p>
+
 <p align="left">
-  &emsp;
-  	
-  
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
-  </a> 
-  &emsp;
-  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
-    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?style=flat&logo=adobeindesign&logoColor=white"/> 
-  </a> 
-    &emsp;
-  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
-    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
-  </a>
-   &emsp;
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
-   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-%2300f.svg?style=flat&logo=adobepremierepro&logoColor=white"/>
-  </a>
-    &emsp;
-  <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
-  </a>
- </p>
-
- ### 👉 Software & Tools
- 
-<p>
-  &emsp;
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-</p>
-</details>
-<br/>
-
-
-<br/>
-
-<p>
-
-## 📝 Aktif Projeler
-### [ Genç Dehalar: ](https://https://github.com/gencdehalar)<br>
-Machine learning prediction model using logistic regression to predict a users observations using the various features used on their OKCupid dating profile. Data collected from OKCupid.com in the San Francisco Area.<br>
-Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn, Scipy
-
-
-</p>
-<br/>
-
-<h2> 🤝🏻 &nbsp;İletişim </h2> 
-
-<p align="center">
-<br>
-<a href="https://www.linkedin.com/YalcinAdiyaman/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://twitter.com/YalcinAdiyaman"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://facebook.com/YalcinAdiyamann"><img src="https://img.shields.io/badge/Facebook-12100E?style=for-the-badge&logo=facebook&logoColor=white" alt="Medium" /></a>&nbsp;
-<a href="mailto:yalcinadiyamannn@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YalcinAdiyaman&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
 </p>
 
 
-<br/> 
+---
 
-## 📝 Veriler
-<p>
-
-<a align="center" href="https://github.com/YalcinAdiyaman">
-  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=YalcinAdiyaman&theme=cobalt&show_icons=true&count_private=true" />
-
+### 📫 İletişim
+<p align="left">
+<a href="mailto: yalcinadiyamannn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </p>
 
-<p>
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/YalcinAdiyaman"/>
-</p>
-
-<br/>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=YalcinAdiyaman&theme=juicyfresh&no-bg=true" />
-<p/>
-
-</p>
------
-
-Son Düzenleme: 25/01/2022
+---
+*Bu profil düzenli olarak projelerimdeki ilerlemeye göre güncellenmektedir.*
