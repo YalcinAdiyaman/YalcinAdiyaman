@@ -10,11 +10,11 @@
 # Selamlar, Ben Yalçın! 👋
 
 ### 👨‍💻 Hakkımda
-İnternet Servis Sağlayıcı (ISS) firmasında altyapı hizmetleri üzerine çalışıyorum. Boş zamanlarımda açık kaynak projeler geliştirmeyi(VibeCoding), elektronik devrelerle (ESP32/Arduino) uğraşmayı seviyorum.
+Türkiye'de bir İnternet Servis Sağlayıcısı(ISS) firmasında altyapı hizmetleri üzerine çalışıyorum. Boş zamanlarımda açık kaynak projeler geliştirmeyi(VibeCoding), elektronik devrelerle (ESP32/Arduino) uğraşmayı seviyorum.
 
-- 📡 **Amatör Telsizcilik:** Teknik projeler ve haberleşme sistemleri üzerine çalışmalar yapıyorum.
-- 🏛️ **Kültürel Miras:** Türk mitolojisi ve motiflerini dijital dünyayla harmanlıyorum.
-- 🛠️ **Elektronik:** ESP32 ve Arduino tabanlı cihazlar geliştiriyorum.
+- 📡 Teknik projeler ve haberleşme sistemleri üzerine çalışmalar yapıyorum.
+- 🏛️ Türk mitolojisi ve motiflerini dijital dünyayla harmanlıyorum.
+- 🛠️ ESP32 ve Arduino tabanlı cihazlar geliştiriyorum.
 
 ---
 
@@ -26,31 +26,35 @@ Aşağıdaki projeler üzerinde aktif olarak çalışmaktayım:
 ![Progress](https://geps.dev/progress/100) (Tamamlandı - Canlıda)
 * Emlak hesaplama araçları ve müşteri yönetim sistemi.
 
-**2. Amatör Telsizcilik Projesi**
-![Progress](https://geps.dev/progress/50) (Yarısı Tamamlandı)
+
+**2. [Amatör Telsizcilik Projesi](https://yalcinadiyaman.github.io/amator_telsizcilik/tr/)**
+![Progress](https://geps.dev/progress/50) (Yarısı Tamamlandı - Github Canlıda)
 * Platform geliştirme aşamasında.
 
-**3. Network Device Discovery Tool**
-![Progress](https://geps.dev/progress/30) (Prototip Hazır - Sahadan Geri Dönüş Bekleniyor)
-* Ubiquiti, Mikrotik ve Mimosa cihazları için Python tabanlı tarama aracı.
 
-**4. Turkic Mythology Strategy Game**
+**3. [İnternet Cihazları Keşif Aracı](https://github.com/YalcinAdiyaman/Network-Discovery-Tool)**
+![Progress](https://geps.dev/progress/30) (Prototip Hazır - Sahadan Geri Dönüş Bekleniyor)
+* Ubiquiti, Mikrotik ve Mimosa cihazları için Python tabanlı tarama aracı.</br>
+
+
+**4. Türk Mitolojisi BBMMORPG Oyunu**
 ![Progress](https://geps.dev/progress/5) (Fikir Aşamasında)
 * Türk mitolojisi ve tarihi temalı browser tabanlı strateji oyunu kurgusu.
+
+
+**5. Araç Bakım Servis Paneli**
+![Progress](https://geps.dev/progress/35) (Temel Modüller Eklendi)
+* Platform geliştirme aşamasında.
+
 
 ---
 
 
 ### 📊 GitHub İstatistiklerim
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YalcinAdiyaman&show_icons=true&theme=tokyonight" alt="Yalçın'ın GitHub İstatistikleri" />
-</p>
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=YalcinAdiyaman&theme=shadow) <img src="https://github-readme-streak-stats.herokuapp.com/?user=YalcinAdiyaman&theme=default" alt="GitHub Streak" />
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YalcinAdiyaman&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
-</p>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YalcinAdiyaman&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 
 ---
 
