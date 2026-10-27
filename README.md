@@ -28,7 +28,7 @@ Aşağıdaki projeler üzerinde aktif olarak çalışmaktayım:
 
 
 **2. [Amatör Telsizcilik Projesi](https://yalcinadiyaman.github.io/amator_telsizcilik/tr/)**
-![Progress](https://geps.dev/progress/50) (Yarısı Tamamlandı - Github Canlıda)
+![Progress](https://geps.dev/progress/80) (Github Canlıda)
 * Platform geliştirme aşamasında.
 
 
@@ -38,13 +38,24 @@ Aşağıdaki projeler üzerinde aktif olarak çalışmaktayım:
 
 
 **4. Türk Mitolojisi BBMMORPG Oyunu**
-![Progress](https://geps.dev/progress/5) (Fikir Aşamasında)
-* Türk mitolojisi ve tarihi temalı browser tabanlı strateji oyunu kurgusu.
+![Progress](https://geps.dev/progress/47) (Temel Mekanikler Test Aşamasında)
+* "KUT: Bozkırın Hükmü" adıyla projeyi geliştiriyorum. Güncel olarak savaş mekanikleri, dünya sonu ve en önemlisi matematiksel hesaplamalar ile birlikte birimler arası güç dengesini sağlamak için çalışmalarım sürüyor. Bir yandan da arayüz geliştirmeleri, hikaye ve oyun içi görseller üzerine çalışıyorum.
 
 
 **5. Araç Bakım Servis Paneli**
-![Progress](https://geps.dev/progress/35) (Temel Modüller Eklendi)
-* Platform geliştirme aşamasında.
+![Progress](https://geps.dev/progress/65) (Temel Modüller Eklendi)
+* Platform geliştirme aşamasında. Projeye Sektorel.pro adıyla devam ediyorum tek bir alan yerine birden fazla sektöre özel çözümler üretmek adına temel motorlar, hesaplama ve görüntüleme araçları ile kapsamlı bir CRM platformu.
+
+
+**6. Değerleme Raporum**
+![Progress](https://geps.dev/progress/85) (Son Geliştirmeler)
+* Eksperler için rapor yazma ve hesaplama araçları. Kullanıcıların isteğine ve alana özel yapılandırmalar yapılıyor.
+
+
+**7. Altyapı Haritalama**
+![Progress](https://geps.dev/progress/15) (Temel Modüller Eklendi)
+* ISS firmaları veya başka firmalar için açık kaynaklı kendi sistemlerinde barındırabilecekleri özelleştirilebilir bir haritalama uygulaması üzerinde çalışıyorum. Temel mantığı fiber altyapı haritalaması için ücretsiz ve güçlü bir alternatif oluşturmak. 
+
 
 
 ---
@@ -52,9 +63,8 @@ Aşağıdaki projeler üzerinde aktif olarak çalışmaktayım:
 
 ### 📊 GitHub İstatistiklerim
 
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=YalcinAdiyaman&theme=shadow) <img src="https://github-readme-streak-stats.herokuapp.com/?user=YalcinAdiyaman&theme=default" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YalcinAdiyaman&theme=default" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YalcinAdiyaman&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 
 ---
 
